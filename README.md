@@ -5,8 +5,9 @@
 
 TODO: Short description of what you attempted to build
 
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+
+<img src="https://github.com/dartmouth-cs98/hack-a-thing-21f-2-tim-yang/blob/main/2D%20game%20screenshots/2D%20game%20screenshot%201.png" width="200">
+
 
 ## Who Did What?
 
