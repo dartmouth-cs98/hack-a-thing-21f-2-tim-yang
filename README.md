@@ -23,6 +23,10 @@ I worked on this alone.
 
 I've made everything work since last time and I was glad to see the combat stats/money change dynamically. I've learned a lot from learning from this tutorial, including using multiple objects/classes in order to build multiple game systems, singleton programming, creating a 2D UI game, and much more. I'm more confident now that the game I've been thinking to create could become a reality.
 
+## How I've been inspired
+
+I've been inspired to make a 2D text-based game that will include many game systems inspired from learning this tutorial. In the Hunter-Gatherer game I've been thinking, the "enemies" will be replaced by animals that the tribe could hunt together, the "player" would be replaced by a tribe that the player leads, which itself will be composed of many tribe members that are similar to "items" that could be collected (although each member would be a lot more complicated with different stats/perks/abilities and all that), the "map system" would be replaced by a geographical location to which the tribe would be able to explore and utilize resources from, on top of meeting other tribes and making diplomatic relationships with. The buttons of actions would be replaced by time-related actions, so that each action taken signals time pass/turn, and each turn the stats of the tribe would be affected based on the current modifiers and everything. This game tutorial has definitely allowed me to be more ambotious and creative with the game I would like to create in order to influence positive change. Thank you.
+
 ## Authors
 
 Timothy Yang '21
